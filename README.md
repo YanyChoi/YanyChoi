@@ -5,7 +5,7 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
 <h2>👀 My Interests & What I'm learning</h2>
 <underline></underline>
 <ul>
-    <li><b>Frontend</b></li>
+    <li><b>FrontEnd Web</b></li>
     <ul>
       <li>JS</li>
       <li>React</li>
