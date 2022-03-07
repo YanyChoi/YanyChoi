@@ -10,6 +10,7 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
       <li>JS</li>
       <li>React</li>
     </ul>
+    <li><b>Python</b>
     <li><b>Deep Learning</b> (for fun)</li>
 </ul>
 Always looking for new fun stuff to make projects or just to have fun.
