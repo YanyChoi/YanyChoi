@@ -20,8 +20,9 @@ Always looking for new fun stuff to make projects or just to have fun.
     <li><b>📞Phone Number</b> : +82-9465-9818</li>
     <li><b>✉️Email</b> : dydghks0818@naver.com</li>
 </ul>
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanyChoi)](https://github.com/YanyChoi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanyChoi)](https://github.com/YanyChoi/github-readme-stats)
 
 <!---
 YanyChoi/YanyChoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
