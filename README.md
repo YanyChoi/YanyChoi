@@ -21,6 +21,8 @@ Always looking for new fun stuff to make projects or just to have fun.
     <li><b>✉️Email</b> : dydghks0818@naver.com</li>
 </ul>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanyChoi)](https://github.com/YanyChoi/github-readme-stats)
+
 <!---
 YanyChoi/YanyChoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
