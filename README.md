@@ -18,7 +18,6 @@ Always looking for new fun stuff to make projects or just to have fun.
 <h2>Contacts</h2>
 <underline></underline>
 <ul>
-    <li><b>📞Phone Number</b> : +82 10-9465-9818</li>
     <li><b>✉️Email</b> : dydghks0818@naver.com</li>
 </ul>
 <br>
