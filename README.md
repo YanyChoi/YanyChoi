@@ -1,6 +1,7 @@
 <h2>👋 I am... </h2>
 <underline></underline>
 I’m Yong Hwan Choi, Currently a sophomore studying software at Gachon Univ.<br>
+Helping out my grandparent's business (rural area cottage rental) & trying to make a new webpage for it<br>
 Just got discharged! (Feb 2022) Just ready to try anything!<br>
 <h2>👀 My Interests & What I'm learning</h2>
 <underline></underline>
