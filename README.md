@@ -9,7 +9,8 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
     <li><b>FrontEnd Web</b></li>
     <ul>
       <li>JS</li>
-      <li>React</li>
+      <li>React.js</li>
+      <li>Next.js</li>
     </ul>
     <li><b>Python</b>
     <li><b>Deep Learning</b> (for fun)</li>
