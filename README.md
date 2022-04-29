@@ -1,7 +1,7 @@
 <h2>👋 I am... </h2>
 <underline></underline>
-I’m Yong Hwan Choi, Currently a sophomore studying software at Gachon Univ.<br>
-Helping out my grandparent's business (rural area cottage rental) & trying to make a new webpage for it<br>
+I’m Yong Hwan Choi, Currently a sophomore studying software at Gachon Univ. (Under Abscence)<br>
+Taking internship at <a href="https://www.gopicky.com">Picky</a> (~Sep 2022).
 Just got discharged! (Feb 2022) Just ready to try anything!<br>
 <h2>👀 My Interests & What I'm learning</h2>
 <underline></underline>
@@ -11,6 +11,12 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
       <li>JS</li>
       <li>React.js</li>
       <li>Next.js</li>
+      <li>sass</li>
+    </ul>
+    <li><b>BackEnd Web</b></li>
+    <ul>
+        <li>FastAPI</li>
+        <li>MySQL</li>
     </ul>
     <li><b>Python</b>
     <li><b>Deep Learning</b> (for fun)</li>
