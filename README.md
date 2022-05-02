@@ -1,6 +1,6 @@
 <h2>👋 I am... </h2>
 <underline></underline>
-I’m Yong Hwan Choi, Currently a sophomore studying software at Gachon Univ. (Under Abscence)<br>
+I’m Yong Hwan Choi, Currently a sophomore studying software at Gachon Univ. (Under leave of abscence)<br>
 Taking internship at <a href="https://www.gopicky.com" target="_blank" >Picky</a> (~Sep 2022).
 Just got discharged! (Feb 2022) Just ready to try anything!<br>
 <h2>👀 My Interests & What I'm learning</h2>
@@ -17,6 +17,8 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
     <ul>
         <li>FastAPI</li>
         <li>MySQL</li>
+        <li>Firebase</li>
+        <li>AWS</li>
     </ul>
     <li><b>Python</b>
     <li><b>Deep Learning</b> (for fun)</li>
