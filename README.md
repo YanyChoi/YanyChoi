@@ -11,6 +11,7 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
       <li>JS</li>
       <li>React.js</li>
       <li>Next.js</li>
+      <li>Flutter</li>
       <li>sass</li>
     </ul>
     <li><b>BackEnd Web</b></li>
