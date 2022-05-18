@@ -8,7 +8,7 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
 <ul>
     <li><b>FrontEnd Web</b></li>
     <ul>
-      <li>JS</li>
+      <li>JavaScript (TypeScript)</li>
       <li>React.js</li>
       <li>Next.js</li>
       <li>Flutter</li>
@@ -21,7 +21,8 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
         <li>Firebase</li>
         <li>AWS</li>
     </ul>
-    <li><b>Python</b>
+    <li><b>Docker</b></li>
+    <li><b>Python</b></li>
     <li><b>Deep Learning</b> (for fun)</li>
 </ul>
 Always looking for new fun stuff to make projects or just to have fun.
