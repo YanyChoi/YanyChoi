@@ -30,7 +30,8 @@ Always looking for new fun stuff to make projects or just to have fun.
 <h2>Contacts</h2>
 <underline></underline>
 <ul>
-    <li><b>✉️Email</b> : dydghks0818@naver.com</li>
+    <li><b>✉️Email (Personal)</b> : dydghks0818@naver.com</li>
+    <li><b>✉️Email (Work)</b> : yhc000818@gmail.com</li>
 </ul>
 <br>
 
