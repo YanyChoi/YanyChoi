@@ -16,13 +16,13 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
     </ul>
     <li><b>BackEnd Web</b></li>
     <ul>
+        <li><b>Python</b></li>
         <li>FastAPI</li>
         <li>MySQL</li>
         <li>Firebase</li>
         <li>AWS</li>
+        <li><b>Docker</b></li>
     </ul>
-    <li><b>Docker</b></li>
-    <li><b>Python</b></li>
     <li><b>Deep Learning</b> (for fun)</li>
 </ul>
 Always looking for new fun stuff to make projects or just to have fun.
