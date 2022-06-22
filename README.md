@@ -20,8 +20,13 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
         <li>FastAPI</li>
         <li>MySQL</li>
         <li>Firebase</li>
+    </ul>
+    <li><b>DevOps</li>
+    <ul>
         <li>AWS</li>
-        <li><b>Docker</b></li>
+        <li>Github Actions</li>
+        <li>Terraform</li>
+        <li>Docker</li>
     </ul>
     <li><b>Deep Learning</b> (for fun)</li>
 </ul>
