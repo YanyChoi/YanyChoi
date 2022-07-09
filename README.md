@@ -19,7 +19,8 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
     <ul>
         <li><b>Python</b></li>
         <li>FastAPI</li>
-        <li>MySQL</li>
+        <li>Django</li>
+        <li>MySQL/MariaDB</li>
         <li>Firebase</li>
     </ul>
     <li><b>DevOps</li>
