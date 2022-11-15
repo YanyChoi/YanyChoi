@@ -1,7 +1,7 @@
 <h2>👋 I am... </h2>
 <underline></underline>
 I’m Yong Hwan Choi, Currently a sophomore studying software at Gachon Univ.<br>
-Taking internship at <a href="https://www.gopicky.com" target="_blank" >Picky</a> (~Sep 2022).
+Took internship at <a href="https://www.gopicky.com" target="_blank" >Picky</a> (~Sep 2022).
 Just got discharged! (Feb 2022) Just ready to try anything!<br>
 <a href="https://www.notion.so/yanychoi/Yany-Choi-6a018a015af949dc8c07de76fa0f7c4f">Resume</a>
 <h2>👀 My Interests & What I'm learning</h2>
@@ -22,6 +22,7 @@ Just got discharged! (Feb 2022) Just ready to try anything!<br>
         <li>Django</li>
         <li>MySQL/MariaDB</li>
         <li>Firebase</li>
+        <li>Spring</li>
     </ul>
     <li><b>DevOps</li>
     <ul>
