@@ -1,4 +1,4 @@
-# This is Yany Choi.
+# This is Yany Choi, backend developer.
 
 
 ## Education
