@@ -2,8 +2,6 @@
 
 ## Education
 
----
-
 **Department of Software, Gachon University**
 
 March 2019 ~ Present
@@ -12,7 +10,6 @@ Undergraduate (Junior year)
 
 ## Working Experiences
 
----
 
 **[Picky](https://gopicky.com)**
 
@@ -26,7 +23,6 @@ Dev Team Intern
 
 ## Projects
 
----
 
 **[Policitia](https://github.com/politicia)**
 
