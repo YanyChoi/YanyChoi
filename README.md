@@ -36,3 +36,7 @@ Creating a Wide-spectrum community starting off from sport topics.
 January 2023 ~ February 2023
 
 Storage & Streaming for the CCTV used in our cottage based on FastAPI.
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanyChoi&layout=compact)
