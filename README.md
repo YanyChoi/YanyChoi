@@ -47,6 +47,7 @@ Storage & Streaming for the CCTV used in our cottage based on FastAPI.
 October 2022 ~ November 2022, April 2023 ~
 
 Recreating Instagram from scratch
+
 \
 \
 **[Committed](https://dope.yanychoi.site)**
