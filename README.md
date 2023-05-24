@@ -1,4 +1,4 @@
-# This is Yany Choi, backend developer.
+# This is Yany Choi, Backend Dev & DevOps Engineer.
 
 
 ## Education
