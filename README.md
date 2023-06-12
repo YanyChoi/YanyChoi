@@ -22,6 +22,14 @@ Dev Team Intern
 - FastAPI backend development.
 - Next.js based FrontEnd development.
 
+**[Karrot Pay](https://www.daangnpay.com)**
+
+June 2023 ~ August 2023
+
+DevOps Engineer (Internship)
+
+
+
 ## Projects
 
 
