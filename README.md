@@ -16,7 +16,7 @@ Undergraduate (Junior year)
 
 March 2022 ~ October 2022
 
-Dev Team Intern
+Software Engineer (Internship)
 
 - Managed infrastructure based on ECS of AWS.
 - FastAPI backend development.
