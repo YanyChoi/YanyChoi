@@ -42,18 +42,6 @@ Storage & Streaming for the CCTV used in our cottage based on FastAPI.
 
 \
 \
-**InstaPic (Instagram Clone)**
-
-
-[Source](https://github.com/YanyChoi/insta-pic-web-app)
-[Code](https://github.com/YanyChoi/insta-pic-core-service)
-
-October 2022 ~ November 2022
-
-Recreating Instagram from scratch
-
-\
-\
 **[Committed](https://dope.yanychoi.site)**
 
 April 2023 ~
