@@ -1,5 +1,6 @@
 # This is Yany Choi, Backend Dev & DevOps Engineer.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYanyChoi&count_bg=%23000000&title_bg=%23FF7D00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Education
 
@@ -51,6 +52,3 @@ Share your committed life and get prizes!
 [Microservice Backend Code](https://github.com/d-o-p-e/tg-msa-service)
 [Infrastructure Code](https://github.com/d-o-p-e/tg-infrastructure)
 
-#
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanyChoi&layout=compact)
