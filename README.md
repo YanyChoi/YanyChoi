@@ -52,3 +52,9 @@ Share your committed life and get prizes!
 [Microservice Backend Code](https://github.com/d-o-p-e/tg-msa-service)
 [Infrastructure Code](https://github.com/d-o-p-e/tg-infrastructure)
 
+
+## Certifications
+
+<img alt="AWS SAA" src="https://github.com/YanyChoi/YanyChoi/assets/51287461/7871a5a0-f2e1-491c-a546-8dd0af8d092b" width="150px" />
+
+<a href="https://www.credly.com/badges/c5bfe72a-461b-47e6-a0e1-3934968f717d" target="_blank">AWS Solutions Architect Associate, July 2023</a>
