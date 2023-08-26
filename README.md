@@ -13,6 +13,18 @@ Undergraduate (Junior year)
 ## Working Experiences
 
 
+**[Karrot Pay](https://www.daangnpay.com)**
+
+June 2023 ~ August 2023
+
+DevOps Engineer (Internship)
+
+- Worked on internal k8s GitOps automation tool.
+- Load testing for new feature module w/ locust.
+- Experienced 100% AWS-based FinTech environment.
+
+\
+\
 **[Picky](https://gopicky.com)**
 
 March 2022 ~ October 2022
@@ -23,26 +35,11 @@ Software Engineer (Internship)
 - FastAPI backend development.
 - Next.js based FrontEnd development.
 
-**[Karrot Pay](https://www.daangnpay.com)**
-
-June 2023 ~ August 2023
-
-DevOps Engineer (Internship)
-
 
 
 ## Projects
 
 
-
-**[CCTV Streaming Service](https://github.com/YanyChoi/cctv-system)**
-
-January 2023 ~ February 2023
-
-Storage & Streaming for the CCTV used in our cottage based on FastAPI.
-
-\
-\
 **[Committed](https://dope.yanychoi.site)**
 
 April 2023 ~
@@ -51,6 +48,16 @@ Share your committed life and get prizes!
 
 [Microservice Backend Code](https://github.com/d-o-p-e/tg-msa-service)
 [Infrastructure Code](https://github.com/d-o-p-e/tg-infrastructure)
+
+
+\
+\
+**[CCTV Streaming Service](https://github.com/YanyChoi/cctv-system)**
+
+January 2023 ~ February 2023
+
+Storage & Streaming for the CCTV used in our cottage based on FastAPI.
+
 
 
 ## Certifications
