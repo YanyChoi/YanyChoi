@@ -7,7 +7,7 @@
 
 March 2019 ~ Present
 
-Undergraduate (Junior year)
+Undergraduate (Senior year)
 
 ## Working Experiences
 
