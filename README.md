@@ -33,31 +33,7 @@ Software Engineer (Internship)
 - Managed infrastructure based on ECS of AWS.
 - FastAPI backend development.
 - Next.js based FrontEnd development.
-
-
-
-## Projects
-
-
-**[Committed](https://dope.yanychoi.site)**
-
-April 2023 ~
-
-Share your committed life and get prizes!
-
-[Microservice Backend Code](https://github.com/d-o-p-e/tg-msa-service)
-[Infrastructure Code](https://github.com/d-o-p-e/tg-infrastructure)
-
-
-\
-\
-**[CCTV Streaming Service](https://github.com/YanyChoi/cctv-system)**
-
-January 2023 ~ February 2023
-
-Storage & Streaming for the CCTV used in our cottage based on FastAPI.
-
-
+- 
 
 ## Certifications
 
